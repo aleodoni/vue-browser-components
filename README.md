@@ -4,9 +4,11 @@
 
 ## Installation
 Clone this repo
+
     $ git clone git@github.com:RonnieSan/vue-browser-components.git
 
 Install the dependencies
+
     $ npm install
 
 ## Usage
