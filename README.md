@@ -9,6 +9,7 @@ Clone this repo
 
 Install the dependencies
 
+    $ cd vue-browser-components
     $ npm install
 
 ## Usage
