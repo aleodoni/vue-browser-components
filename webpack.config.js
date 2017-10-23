@@ -39,7 +39,8 @@ module.exports = (env) => {
 			}
 		},
 		externals : {
-			vue : 'Vue'
+			vue : 'Vue',
+			lodash : 'lodash'
 		},
 		module : {
 			rules : [
